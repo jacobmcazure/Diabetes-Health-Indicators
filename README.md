@@ -5,7 +5,7 @@ Contact: jacobmcewen7@gmail.com
 
 ## This is a machine learning model that classifies patients by predicting whether a patient is non-diabetic or is prediabetic/has diabetes.
 
-## The dataset used to train this model can be found here:
+#### The dataset used to train this model can be found here:
 https://www.kaggle.com/datasets/julnazz/diabetes-health-indicators-dataset/data
 
 The dataset includes 21 features and ~236,000 entries.
